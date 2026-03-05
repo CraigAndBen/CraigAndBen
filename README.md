@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m a Web Developer
+ 🔭 I’m a Full Stack Develper
  
  🌱 I’m currently learning **.Net, C#, Python**
 
