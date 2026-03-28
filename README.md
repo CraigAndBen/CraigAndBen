@@ -14,7 +14,7 @@
 
 <h2 align="center">🚀 Key Architectural Systems 🚀</h2>
 
-* **[Sahod HRIS & Payroll Platform](./case-studies/hris.md)** – Architected a centralized system for **300+ staff**, automating complex timekeeping, employee onboarding (200+ files), and real-time payroll processing.
+* **[HRIS & Payroll Platform](case-studies/case-studies/hris.md)** – Architected a centralized system for **300+ staff**, automating complex timekeeping, employee onboarding (200+ files), and real-time payroll processing.
 * **[Enterprise Supply Management System](./case-studies/supply-management.md)** – Engineered a robust inventory engine managing **3,000+ stock items**, featuring automated audit trails, stock adjustment triggers, and real-time resupply notifications.
 * **[GSD & IT Ticketing Infrastructure](./case-studies/ticketing-system.md)** – Developed a cross-branch monitoring system for **50+ locations**, integrating analytics dashboards and supervisor performance grading to optimize operations.
 * **[Applicant Recruitment & Assessment Engine](./case-studies/recruitment-monitoring.md)** – Built automated vetting tools and technical exams that boosted application processing speed by **80%**.
