@@ -1,0 +1,18 @@
+# Case Study: E-Learning & Management Training System
+**Role:** Senior Programmer / Systems Architect  
+**Scale:** 50+ Branches | Accounting, Marketing, and HR Departments
+
+## 📌 The Challenge
+Training management trainees across 50+ branches was slow and inconsistent. There was no way to verify if trainees in different regions were receiving the same quality of instruction or passing their certifications.
+
+## 🛠️ My Architectural Approach
+I engineered a centralized E-Learning platform to standardize and automate the corporate training lifecycle.
+
+### Key Technical Implementations:
+* **Exam-Based Learning Modules:** Created a curriculum-based system where trainees must pass scenario-based exams to progress.
+* **Departmental Specialization:** Tailored training paths for Accounting, Marketing, and HR, ensuring department-specific compliance and knowledge.
+* **Centralized Progress Monitoring:** Built a supervisor dashboard to track trainee completion rates and exam scores across all branch locations.
+
+## 🚀 Impact & Results
+* **Training Speed:** Accelerated the management training process by **80%**.
+* **Scalability:** Enabled the organization to train hundreds of employees simultaneously across a distributed branch network.
