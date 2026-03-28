@@ -1,0 +1,18 @@
+# Case Study: Applicant Recruitment & Technical Assessment Engine
+**Role:** Senior Programmer / Systems Architect  
+**Impact:** 80% Faster Application Processing | High-Quality IT Hires
+
+## 📌 The Challenge
+Scaling the IT and operations teams required a way to filter high-quality talent without manual grading. The organization needed a system to track applicants and objectively test their technical skills.
+
+## 🛠️ My Architectural Approach
+I built a specialized recruitment pipeline that prioritizes automated evaluation.
+
+### Key Technical Implementations:
+* **Hackathon-Style Assessment Engine:** Designed scenario-based coding exams and technical assessments specifically for programmer applicants.
+* **Applicant Tracking System (ATS):** Built a centralized dashboard for HR to monitor the recruitment workflow from initial application to final evaluation.
+* **Objective Grading Logic:** Automated the scoring of technical exams, ensuring only top-tier candidates moved to the interview stage.
+
+## 🚀 Impact & Results
+* **Processing Speed:** Boosted application processing efficiency by **80%**.
+* **Talent Quality:** Significantly improved the quality of technical hires by implementing rigorous, automated vetting.
