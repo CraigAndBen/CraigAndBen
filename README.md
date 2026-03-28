@@ -10,12 +10,25 @@
   Based in Camarines Sur, Philippines 🇵🇭
 </p>
 
+<h2 align="center">🚀 Key Architectural Systems 🚀</h2>
+
+<br/>
+
+* **Sahod HRIS & Payroll Platform** Architected a centralized system for **300+ staff**, automating complex timekeeping, employee onboarding (200+ files), and real-time payroll processing.
+* **Enterprise Supply Management System** Engineered a robust inventory engine managing **3,000+ stock items**, featuring automated audit trails, stock adjustment triggers, and real-time resupply notifications[cite: 16].
+* **GSD & IT Ticketing Infrastructure** Developed a cross-branch monitoring system for **50+ locations**, integrating analytics dashboards and supervisor performance grading to optimize operations[cite: 7, 14].
+* **E-Learning & Recruitment Engines** Built automated modules that accelerated management training and applicant processing speeds by **80%** across multiple departments[cite: 15, 17].
+
+<br/>
+
 <div align="center">
 
 🔭 **Currently:** Architecting a multi-tenant HRIS & Payroll platform (Sahod) for 300+ employees, migrating legacy logic to a modern, scalable cloud stack. 
 <br>
 🌱 **Focusing on:** Scaling enterprise SaaS patterns using Next.js, TypeScript, and PostgreSQL to build high-concurrency business tools.
-💬 **Ask me about:** PHP/Laravel, React, System Design, and Tax-Compliant API Engineering.  
+<br>
+💬 **Ask me about:** PHP/Laravel, Next.js, System Design, AI-Augmented Workflows, and Tax-Compliant API Engineering. 
+<br>
 ⚡ **Philosophy:** "A man that owns nothing, cannot be bought." — Keeping code clean and logic independent.
 
 </div>
@@ -39,7 +52,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,react,nodejs,nextjs,ts,js" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,aws,git,github" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,vercel,git,github" />
   <br/>
   <img src="https://skillicons.dev/icons?i=tailwind,postman,figma,vscode" />
 </div>
