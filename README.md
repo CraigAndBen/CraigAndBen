@@ -12,8 +12,8 @@
 
 <div align="center">
 
-🔭 **Currently:** Building mission-critical HRIS and Payroll systems at Farmstation Agri-vet.  
-🌱 **Focusing on:** Next.js, Prisma, and PostgreSQL for modern Full-Stack Architecture.  
+🔭 **Currently:** Architecting a multi-tenant HRIS & Payroll platform (Sahod) for 300+ employees, migrating legacy logic to a modern, scalable cloud stack. 
+🌱 **Focusing on:** Scaling enterprise SaaS patterns using Next.js, TypeScript, and PostgreSQL to build high-concurrency business tools.
 💬 **Ask me about:** PHP/Laravel, React, System Design, and Tax-Compliant API Engineering.  
 ⚡ **Philosophy:** "A man that owns nothing, cannot be bought." — Keeping code clean and logic independent.
 
