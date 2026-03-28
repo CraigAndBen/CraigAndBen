@@ -43,7 +43,7 @@
   <a href="https://linkedin.com/in/craigbencadag" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://craigandben.github.io/Portfolio/" target="_blank">
+  <a href="https://craigben.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=react&logoColor=61DAFB" />
   </a>
 </div>
