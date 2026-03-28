@@ -1,0 +1,19 @@
+# Case Study: GSD & IT Unified Ticketing Infrastructure
+**Role:** Senior Programmer / Systems Architect  
+**Scale:** 50+ Branches | Real-time Performance Grading  
+
+## 📌 The Challenge
+With over 50 branches operating across the region, the organization lacked a centralized way to track maintenance (GSD) and technical (IT) requests. Response times were unmonitored, and there was no objective way to measure the efficiency of support staff or the urgency of branch-level issues.
+
+## 🛠️ My Architectural Approach
+I engineered a unified ticketing ecosystem that moved the company from "reactive" fixes to "data-driven" support management.
+
+### Key Technical Implementations:
+* **Multi-Branch Routing:** Designed a request-handling logic that automatically routes tickets to the correct department based on branch location and issue category.
+* **Performance Grading Dashboard:** Developed a custom algorithm for supervisor performance grading. This allowed management to see real-time "Efficiency Scores" for the IT and GSD teams.
+* **Real-time Analytics:** Built a monitoring dashboard using **Laravel** and **Chart.js** to visualize peak ticket times, common hardware failures, and branch-specific bottlenecks.
+
+## 🚀 Impact & Results
+* **Operational Visibility:** Provided leadership with the first-ever real-time map of technical health across all 50+ locations.
+* **Improved Accountability:** The performance grading system led to a measurable increase in ticket resolution speed and support staff responsiveness.
+* **Centralized Logic:** Unified two separate departments (IT and General Services) into a single architectural flow, reducing server overhead and simplifying user training.
