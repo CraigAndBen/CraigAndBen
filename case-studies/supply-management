@@ -1,0 +1,20 @@
+# Case Study: Enterprise Supply Management System
+**Role:** Senior Programmer / Systems Architect  
+**Scale:** 3,000+ Stock Items | 50+ Branches  
+
+## 📌 The Challenge
+Managing 3,000+ individual stock items across a 50-branch network led to a 15% discrepancy in inventory data. The manual tracking system suffered from "race conditions"—where two users would update the same item simultaneously—resulting in negative stock levels and inaccurate procurement orders.
+
+## 🛠️ My Architectural Approach
+I engineered a high-concurrency inventory engine built on the principle of **Atomic Data Integrity**.
+
+### Key Technical Implementations:
+* **Database Transactions (ACID):** Implemented `DB::transaction` logic to ensure that stock deductions and audit logs are atomic. This prevents partial updates and ensures data consistency even during server interruptions.
+* **Append-Only Ledger Logic:** Instead of simply overwriting a `quantity` column, I built a transaction-based ledger. Every movement (+ or -) is a unique record, allowing for a 100% accurate historical audit trail.
+* **Stock Adjustment Triggers:** Developed automated alerts for low-stock thresholds, integrating with the procurement workflow to prevent "out-of-stock" scenarios for critical items.
+* **Optimized Search Indexing:** Optimized MySQL indexing for 3,000+ SKUs to ensure sub-100ms response times for branch managers during peak inventory hours.
+
+## 🚀 Impact & Results
+* **Data Accuracy:** Reduced inventory discrepancies from 15% to **less than 0.5%**.
+* **Operational Efficiency:** Automated the monthly auditing process, saving management **20+ hours** of manual verification per branch.
+* **System Reliability:** Eliminated "race condition" errors through row-level locking and transaction management.
