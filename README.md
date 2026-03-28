@@ -17,9 +17,9 @@
 <br/>
 
 * **Sahod HRIS & Payroll Platform** Architected a centralized system for **300+ staff**, automating complex timekeeping, employee onboarding (200+ files), and real-time payroll processing.
-* **Enterprise Supply Management System** Engineered a robust inventory engine managing **3,000+ stock items**, featuring automated audit trails, stock adjustment triggers, and real-time resupply notifications[cite: 16].
-* **GSD & IT Ticketing Infrastructure** Developed a cross-branch monitoring system for **50+ locations**, integrating analytics dashboards and supervisor performance grading to optimize operations[cite: 7, 14].
-* **E-Learning & Recruitment Engines** Built automated modules that accelerated management training and applicant processing speeds by **80%** across multiple departments[cite: 15, 17].
+* **Enterprise Supply Management System** Engineered a robust inventory engine managing **3,000+ stock items**, featuring automated audit trails, stock adjustment triggers, and real-time resupply notifications.
+* **GSD & IT Ticketing Infrastructure** Developed a cross-branch monitoring system for **50+ locations**, integrating analytics dashboards and supervisor performance grading to optimize operations.
+* **E-Learning & Recruitment Engines** Built automated modules that accelerated management training and applicant processing speeds by **80%** across multiple departments.
 
 <br/>
 <hr/>
