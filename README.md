@@ -10,6 +10,8 @@
   Based in Camarines Sur, Philippines 🇵🇭
 </p>
 
+<hr/>
+
 <h2 align="center">🚀 Key Architectural Systems 🚀</h2>
 
 <br/>
@@ -20,6 +22,7 @@
 * **E-Learning & Recruitment Engines** Built automated modules that accelerated management training and applicant processing speeds by **80%** across multiple departments[cite: 15, 17].
 
 <br/>
+<hr/>
 
 <div align="center">
 
@@ -57,18 +60,21 @@
   <img src="https://skillicons.dev/icons?i=tailwind,postman,figma,vscode" />
 </div>
 
+</br>
 <hr/>
 
 <h2 align="center">⚡ Engineering Stats ⚡</h2>
 <br>
 <div align="center">
-  <img width="400" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=CraigAndBen&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=CraigAndBen&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width="400" src="https://streak-stats.demolab.com/?user=CraigAndBen&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  
+  <img width="400" src="https://github-readme-stats-fast.vercel.app/api?username=CraigAndBen&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  
   <br/>
-  <!-- <img width="350" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CraigAndBen&hide=HTML,CSS&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs"/> -->
+  
+  <img width="350" align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CraigAndBen&hide=HTML,CSS&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top languages"/>
 </div>
 
-<br/>
 <hr/>
 <br/>
 
