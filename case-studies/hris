@@ -1,0 +1,20 @@
+# Case Study: HRIS & Payroll Platform
+**Role:** Senior Programmer / Systems Architect  
+**Scale:** 300+ Employees | 201+ Digital Onboarding Files  
+
+## 📌 The Challenge
+Managing HR operations for a distributed workforce of 300+ employees across 50+ branches led to significant bottlenecks in timekeeping and payroll accuracy. The organization needed a way to centralize recruitment, automate onboarding for hundreds of employees, and provide real-time visibility into staff performance.
+
+## 🛠️ My Architectural Approach
+I modernized the HRIS platform to move away from manual tracking toward an automated, data-driven architecture that prioritizes security and scalability.
+
+### Key Technical Implementations:
+* **Recruitment Monitoring System:** Built a custom workflow for HR to manage applicants, including evaluation modules that boosted application processing speed by **80%**.
+* **Onboarding Automation:** Designed a secure module for handling **201+ digital employee files**, replacing physical paperwork with a streamlined digital pipeline.
+* **Unified Payroll Logic:** Developed an automated timekeeping engine that calculates payroll for 300+ staff, ensuring data integrity across various branch-level shifts and rules.
+* **Technical Mentorship:** As a Senior Programmer, I led a team of **5+ junior developers**, conducting code reviews and setting development standards for this platform.
+
+## 🚀 Impact & Results
+* **Operational Efficiency:** Accelerated training and recruitment workflows by **80%** across Accounting, Marketing, and HR departments.
+* **Improved Quality:** Implemented hackathon-style technical assessments for new hires, ensuring high-quality talent acquisition.
+* **Zero Downtime Migration:** Successfully managed the transition from legacy processes to the centralized Sahod platform without disrupting monthly payroll cycles.
