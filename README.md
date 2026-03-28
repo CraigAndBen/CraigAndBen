@@ -13,6 +13,7 @@
 <div align="center">
 
 🔭 **Currently:** Architecting a multi-tenant HRIS & Payroll platform (Sahod) for 300+ employees, migrating legacy logic to a modern, scalable cloud stack. 
+<br>
 🌱 **Focusing on:** Scaling enterprise SaaS patterns using Next.js, TypeScript, and PostgreSQL to build high-concurrency business tools.
 💬 **Ask me about:** PHP/Laravel, React, System Design, and Tax-Compliant API Engineering.  
 ⚡ **Philosophy:** "A man that owns nothing, cannot be bought." — Keeping code clean and logic independent.
@@ -51,7 +52,7 @@
   <img width="400" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=CraigAndBen&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=CraigAndBen&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width="350" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CraigAndBen&hide=HTML,CSS&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs"/>
+  <!-- <img width="350" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CraigAndBen&hide=HTML,CSS&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs"/> -->
 </div>
 
 <br/>
